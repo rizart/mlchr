@@ -1,5 +1,5 @@
 # mlchr
-A python library for character pattern recognition
+A python library for character pattern recognition.
 
 **Feature Extraction**
 
